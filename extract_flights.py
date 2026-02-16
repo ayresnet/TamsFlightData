@@ -48,7 +48,7 @@ def get_flights_data(movement_type='A', airport='AEP'):
             'ddlMovTp': movement_type,       
             'ddlAeropuerto': airport,          
             'ddlSector': '-1',               
-            'ddlAerolinea': '0',            # 0 = TODAS las aerolíneas
+            'ddlAerolinea': '-1',            # -1 = TODAS las aerolíneas (o selección vacía)
             'ddlAterrizados': 'TODOS',
             'ddlVentanaH': '6',              
             'btnBuscar': 'Buscar'            
