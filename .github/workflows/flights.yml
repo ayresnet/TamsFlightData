@@ -1,6 +1,7 @@
 name: Update Flight Data
 
 on:
+  push: # Ejecutar al hacer push (para tener datos rapido)
   schedule:
     - cron: '*/15 * * * *' # Cada 15 mins
   workflow_dispatch:
