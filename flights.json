@@ -1,28 +1,8 @@
 {
   "success": true,
-<<<<<<< HEAD
-  "last_updated": "2026-02-16 22:21:17",
-  "count": 0,
-  "data": []
-=======
-  "last_updated": "2026-02-16 19:25:08",
+  "last_updated": "2026-02-16 22:34:56",
   "count": 80,
   "data": [
-    {
-      "airline": "AR",
-      "flight": "1601",
-      "registration": "LVCHQ",
-      "position": "12",
-      "terminal": "A",
-      "sector": "N",
-      "remark": "EST",
-      "type": "A",
-      "airport": "AEP",
-      "sta": "16/02 20:00",
-      "eta": "19:33",
-      "ata": "",
-      "origin": "LUQ"
-    },
     {
       "airline": "FO",
       "flight": "5015",
@@ -39,21 +19,6 @@
       "origin": "COR"
     },
     {
-      "airline": "FO",
-      "flight": "5091",
-      "registration": "LVKEH",
-      "position": "21",
-      "terminal": "A",
-      "sector": "N",
-      "remark": "DEM",
-      "type": "A",
-      "airport": "AEP",
-      "sta": "16/02 17:40",
-      "eta": "19:40",
-      "ata": "",
-      "origin": "PSS"
-    },
-    {
       "airline": "LA",
       "flight": "425",
       "registration": "CCCOE",
@@ -67,6 +32,21 @@
       "eta": "19:40",
       "ata": "",
       "origin": "SCL"
+    },
+    {
+      "airline": "FO",
+      "flight": "5091",
+      "registration": "LVKEH",
+      "position": "21",
+      "terminal": "A",
+      "sector": "N",
+      "remark": "DEM",
+      "type": "A",
+      "airport": "AEP",
+      "sta": "16/02 17:40",
+      "eta": "19:40",
+      "ata": "",
+      "origin": "PSS"
     },
     {
       "airline": "AR",
@@ -109,7 +89,7 @@
       "type": "A",
       "airport": "AEP",
       "sta": "16/02 20:20",
-      "eta": "20:19",
+      "eta": "20:15",
       "ata": "",
       "origin": "MVD"
     },
@@ -309,20 +289,19 @@
       "origin": "GIG"
     },
     {
-      "airline": "FO",
-      "flight": "5104",
-      "registration": "ECMUB",
-      "position": "17",
+      "airline": "WJ",
+      "flight": "3821",
+      "registration": "LVKFX",
+      "position": "66",
       "terminal": "A",
-      "sector": "A",
-      "remark": "CER",
-      "type": "D",
+      "sector": "I",
+      "remark": "",
+      "type": "A",
       "airport": "AEP",
-      "std": "16/02 19:30",
-      "etd": "",
-      "atd": "",
-      "destination": "IGR",
-      "gate": "01"
+      "sta": "16/02 22:00",
+      "eta": "",
+      "ata": "",
+      "origin": "FLN"
     },
     {
       "airline": "AR",
@@ -331,7 +310,7 @@
       "position": "11",
       "terminal": "A",
       "sector": "A",
-      "remark": "ULT",
+      "remark": "CER",
       "type": "D",
       "airport": "AEP",
       "std": "16/02 19:35",
@@ -347,7 +326,7 @@
       "position": "15",
       "terminal": "A",
       "sector": "A",
-      "remark": "PRE",
+      "remark": "BOR",
       "type": "D",
       "airport": "AEP",
       "std": "16/02 19:40",
@@ -363,7 +342,7 @@
       "position": "32A",
       "terminal": "A",
       "sector": "A",
-      "remark": "BOR",
+      "remark": "ULT",
       "type": "D",
       "airport": "AEP",
       "std": "16/02 20:00",
@@ -379,7 +358,7 @@
       "position": "10",
       "terminal": "A",
       "sector": "A",
-      "remark": "PRE",
+      "remark": "BOR",
       "type": "D",
       "airport": "AEP",
       "std": "16/02 20:00",
@@ -389,29 +368,13 @@
       "gate": "06"
     },
     {
-      "airline": "AR",
-      "flight": "1612",
-      "registration": "LVCXS",
-      "position": "09",
-      "terminal": "A",
-      "sector": "A",
-      "remark": "HOR",
-      "type": "D",
-      "airport": "AEP",
-      "std": "16/02 20:05",
-      "etd": "",
-      "atd": "",
-      "destination": "MDQ",
-      "gate": "08"
-    },
-    {
       "airline": "LP",
       "flight": "2368",
       "registration": "CCBFT",
       "position": "04",
       "terminal": "A",
       "sector": "A",
-      "remark": "BOR",
+      "remark": "ULT",
       "type": "D",
       "airport": "AEP",
       "std": "16/02 20:05",
@@ -419,6 +382,22 @@
       "atd": "",
       "destination": "LIM",
       "gate": "18"
+    },
+    {
+      "airline": "AR",
+      "flight": "1612",
+      "registration": "LVCXS",
+      "position": "09",
+      "terminal": "A",
+      "sector": "A",
+      "remark": "PRE",
+      "type": "D",
+      "airport": "AEP",
+      "std": "16/02 20:05",
+      "etd": "",
+      "atd": "",
+      "destination": "MDQ",
+      "gate": "08"
     },
     {
       "airline": "AR",
@@ -443,7 +422,7 @@
       "position": "03",
       "terminal": "A",
       "sector": "A",
-      "remark": "PRE",
+      "remark": "BOR",
       "type": "D",
       "airport": "AEP",
       "std": "16/02 20:30",
@@ -629,6 +608,22 @@
       "gate": "06"
     },
     {
+      "airline": "AR",
+      "flight": "1196",
+      "registration": "LVFUC",
+      "position": "07",
+      "terminal": "A",
+      "sector": "A",
+      "remark": "HOR",
+      "type": "D",
+      "airport": "AEP",
+      "std": "16/02 23:30",
+      "etd": "",
+      "atd": "",
+      "destination": "REL",
+      "gate": "12"
+    },
+    {
       "airline": "FO",
       "flight": "5953",
       "registration": "LYNVL",
@@ -644,6 +639,21 @@
       "origin": "FLN"
     },
     {
+      "airline": "AA",
+      "flight": "933",
+      "registration": "N782AN",
+      "position": "16",
+      "terminal": "A",
+      "sector": "INT",
+      "remark": "DEM",
+      "type": "A",
+      "airport": "EZE",
+      "sta": "16/02 10:15",
+      "eta": "20:03",
+      "ata": "",
+      "origin": "MIA"
+    },
+    {
       "airline": "IB",
       "flight": "0107",
       "registration": "ECOFM",
@@ -657,21 +667,6 @@
       "eta": "20:03",
       "ata": "",
       "origin": "MAD"
-    },
-    {
-      "airline": "AA",
-      "flight": "933",
-      "registration": "N782AN",
-      "position": "52",
-      "terminal": "A",
-      "sector": "INT",
-      "remark": "DEM",
-      "type": "A",
-      "airport": "EZE",
-      "sta": "16/02 10:15",
-      "eta": "20:03",
-      "ata": "",
-      "origin": "MIA"
     },
     {
       "airline": "AR",
@@ -704,21 +699,6 @@
       "origin": "JUJ"
     },
     {
-      "airline": "AF",
-      "flight": "412",
-      "registration": "FHTYS",
-      "position": "10",
-      "terminal": "A",
-      "sector": "INT",
-      "remark": "EST",
-      "type": "A",
-      "airport": "EZE",
-      "sta": "16/02 20:20",
-      "eta": "20:24",
-      "ata": "",
-      "origin": "CDG"
-    },
-    {
       "airline": "AR",
       "flight": "1853",
       "registration": "LVGVB",
@@ -732,6 +712,21 @@
       "eta": "20:24",
       "ata": "",
       "origin": "FTE"
+    },
+    {
+      "airline": "AF",
+      "flight": "412",
+      "registration": "FHTYS",
+      "position": "10",
+      "terminal": "A",
+      "sector": "INT",
+      "remark": "EST",
+      "type": "A",
+      "airport": "EZE",
+      "sta": "16/02 20:20",
+      "eta": "20:24",
+      "ata": "",
+      "origin": "CDG"
     },
     {
       "airline": "QT",
@@ -764,6 +759,21 @@
       "origin": "ADD"
     },
     {
+      "airline": "LA",
+      "flight": "628",
+      "registration": "CCCQM",
+      "position": "",
+      "terminal": "A",
+      "sector": "INT",
+      "remark": "",
+      "type": "A",
+      "airport": "EZE",
+      "sta": "16/02 20:55",
+      "eta": "",
+      "ata": "",
+      "origin": "SCL"
+    },
+    {
       "airline": "WJ",
       "flight": "3627",
       "registration": "CCDIV",
@@ -794,36 +804,6 @@
       "origin": "ROS"
     },
     {
-      "airline": "LA",
-      "flight": "628",
-      "registration": "CCCQM",
-      "position": "",
-      "terminal": "A",
-      "sector": "INT",
-      "remark": "",
-      "type": "A",
-      "airport": "EZE",
-      "sta": "16/02 20:55",
-      "eta": "",
-      "ata": "",
-      "origin": "SCL"
-    },
-    {
-      "airline": "PRV",
-      "flight": "VJA507L",
-      "registration": "9HVIT",
-      "position": "44A",
-      "terminal": "FBO",
-      "sector": "",
-      "remark": "DEM",
-      "type": "A",
-      "airport": "EZE",
-      "sta": "16/02 18:15",
-      "eta": "21:00",
-      "ata": "",
-      "origin": "MIA"
-    },
-    {
       "airline": "EK",
       "flight": "247",
       "registration": "A6EGF",
@@ -852,6 +832,21 @@
       "eta": "",
       "ata": "",
       "origin": "MDZ"
+    },
+    {
+      "airline": "PRV",
+      "flight": "VJA507L",
+      "registration": "9HVIT",
+      "position": "44A",
+      "terminal": "FBO",
+      "sector": "",
+      "remark": "DEM",
+      "type": "A",
+      "airport": "EZE",
+      "sta": "16/02 18:15",
+      "eta": "21:00",
+      "ata": "",
+      "origin": "MIA"
     },
     {
       "airline": "AR",
@@ -914,19 +909,19 @@
       "origin": "IGR"
     },
     {
-      "airline": "AM",
-      "flight": "0030",
-      "registration": "XAADG",
+      "airline": "AR",
+      "flight": "1483",
+      "registration": "LVGIK",
       "position": "",
-      "terminal": "A",
-      "sector": "INT",
-      "remark": "EST",
+      "terminal": "C",
+      "sector": "DOM",
+      "remark": "",
       "type": "A",
       "airport": "EZE",
-      "sta": "16/02 21:55",
-      "eta": "21:25",
+      "sta": "16/02 21:25",
+      "eta": "",
       "ata": "",
-      "origin": "MEX"
+      "origin": "TUC"
     },
     {
       "airline": "QT",
@@ -943,22 +938,6 @@
       "atd": "",
       "destination": "BOG",
       "gate": ""
-    },
-    {
-      "airline": "IB",
-      "flight": "0106",
-      "registration": "ECMUD",
-      "position": "09",
-      "terminal": "NTP",
-      "sector": "C",
-      "remark": "CER",
-      "type": "D",
-      "airport": "EZE",
-      "std": "16/02 19:30",
-      "etd": "",
-      "atd": "",
-      "destination": "MAD",
-      "gate": "08"
     },
     {
       "airline": "LA",
@@ -983,7 +962,7 @@
       "position": "73",
       "terminal": "NTP",
       "sector": "A",
-      "remark": "BOR",
+      "remark": "ULT",
       "type": "D",
       "airport": "EZE",
       "std": "16/02 19:55",
@@ -1031,7 +1010,7 @@
       "position": "02",
       "terminal": "NTP",
       "sector": "A",
-      "remark": "PRE",
+      "remark": "BOR",
       "type": "D",
       "airport": "EZE",
       "std": "16/02 20:25",
@@ -1057,22 +1036,6 @@
       "gate": "03"
     },
     {
-      "airline": "DL",
-      "flight": "110",
-      "registration": "N420DX",
-      "position": "08",
-      "terminal": "NTP",
-      "sector": "F",
-      "remark": "HOR",
-      "type": "D",
-      "airport": "EZE",
-      "std": "16/02 20:55",
-      "etd": "",
-      "atd": "",
-      "destination": "ATL",
-      "gate": "07"
-    },
-    {
       "airline": "WJ",
       "flight": "3818",
       "registration": "CCDIF",
@@ -1087,6 +1050,22 @@
       "atd": "",
       "destination": "FLN",
       "gate": "12"
+    },
+    {
+      "airline": "DL",
+      "flight": "110",
+      "registration": "N420DX",
+      "position": "08",
+      "terminal": "NTP",
+      "sector": "F",
+      "remark": "HOR",
+      "type": "D",
+      "airport": "EZE",
+      "std": "16/02 20:55",
+      "etd": "",
+      "atd": "",
+      "destination": "ATL",
+      "gate": "07"
     },
     {
       "airline": "AR",
@@ -1169,22 +1148,6 @@
       "gate": "05"
     },
     {
-      "airline": "AA",
-      "flight": "996",
-      "registration": "N783AN",
-      "position": "35",
-      "terminal": "NTP",
-      "sector": "B",
-      "remark": "HOR",
-      "type": "D",
-      "airport": "EZE",
-      "std": "16/02 22:25",
-      "etd": "",
-      "atd": "",
-      "destination": "DFW",
-      "gate": ""
-    },
-    {
       "airline": "DL",
       "flight": "114",
       "registration": "N414DZ",
@@ -1198,6 +1161,22 @@
       "etd": "",
       "atd": "",
       "destination": "JFK",
+      "gate": ""
+    },
+    {
+      "airline": "AA",
+      "flight": "996",
+      "registration": "N783AN",
+      "position": "35",
+      "terminal": "NTP",
+      "sector": "B",
+      "remark": "HOR",
+      "type": "D",
+      "airport": "EZE",
+      "std": "16/02 22:25",
+      "etd": "",
+      "atd": "",
+      "destination": "DFW",
       "gate": ""
     },
     {
@@ -1233,6 +1212,22 @@
       "gate": "10"
     },
     {
+      "airline": "AR",
+      "flight": "1302",
+      "registration": "LVKAN",
+      "position": "15",
+      "terminal": "NTP",
+      "sector": "D",
+      "remark": "HOR",
+      "type": "D",
+      "airport": "EZE",
+      "std": "16/02 22:45",
+      "etd": "",
+      "atd": "",
+      "destination": "MIA",
+      "gate": "20"
+    },
+    {
       "airline": "IB",
       "flight": "0108",
       "registration": "ECOFM",
@@ -1249,5 +1244,4 @@
       "gate": "09"
     }
   ]
->>>>>>> 7f9306b (Fix final filtro aerolinea)
 }
